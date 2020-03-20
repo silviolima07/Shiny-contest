@@ -1,2 +1,4 @@
 # Shiny-contest
-Web app submited in a contest.
+#
+# Genetics Algorithms for Optimization
+https://rsilvio.shinyapps.io/Handbag/
